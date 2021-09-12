@@ -1,0 +1,8 @@
+.welcome{
+    background-image: url('../img/backgrounds/h_img.jpg');
+    background-position: center center;
+    background-clip: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20%;
+}
