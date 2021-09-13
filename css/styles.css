@@ -4,5 +4,16 @@
     background-clip: cover;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 20%;
+    padding: 15%;
+    color: white;
+}
+.welcome h1{
+    padding: 10px;
+    margin: 10px;
+}
+.welcome p{
+    padding: 5px;
+}
+.mouse_click{
+    padding-top: 10%;
 }
