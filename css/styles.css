@@ -1,7 +1,7 @@
 .welcome{
     background-image: url('../img/backgrounds/h_img.jpg');
     background-position: center center;
-    background-clip: cover;
+    background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     padding: 15%;
@@ -16,4 +16,18 @@
 }
 .mouse_click{
     padding-top: 10%;
+}
+.about_us{
+    text-align: center;
+}
+.services{
+    background-image: url('../img/backgrounds/s_image.jpg');
+    color: white;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+}
+.services p{
+    padding: 20px;
+    text-align: center;
 }
