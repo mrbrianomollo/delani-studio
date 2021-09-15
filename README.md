@@ -12,11 +12,11 @@
 - Contacts
 - Author
 
-#
+# Delani Studio
 
 ## DESCRIPTION
 
-- 
+- This website is a landing page of Delani studios. It explains and showcases what Delani is all about.
 
 ## Deployment
 
@@ -25,14 +25,22 @@
 
 ## BDD
 
-> 
-> 
-- NB : ``
+> Incase you need to contact them you will be required to  fill out the contact form and your details will be captured.
 
 ## Project Screenshot
 
-<img>
--
+<img src="img/screenshots/landing page.png">
+- This is the first thing you see once you open the landing page. Has the name and logo of Delani Studios.
+<img src="img/screenshots/about-us.png">
+- This th e about us section and services. Gives a brief description on delani and goes further to let you know what services they offer.
+<img src="img/screenshots/what we do.png">
+- This sections has details of what Delani actually does. The thumbnails are clickable to explain further.
+<img src="img/screenshots/portfolio.png">
+- This section Delani actually showcases their works and projects.
+<img src="img/screenshots/contact us.png">
+- This section is what prospective customers use to contact them. You like what you saw? Drop them an email.
+<img src="img/screenshots/footer.png">
+- Delani is social and thats why you can find them across the listed platforms on the footer.
 
 ## Technologies Used
 
@@ -43,29 +51,12 @@
 
 ## Bugs
 
-
+- None at the moment
 
 ## Acknowledgement
 
-I would like to thank the following for their assistance through out this project.
+I would like to thank different content providers on youtube for enabling me to come up with this project.
 
-- 
-- 
-- 
-
-## Licence
-
-The MIT License (MIT)
-
-Copyright (c) 2021 Brian Ongati.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-@mrbrianomollo
 
 ## Contacts
 
