@@ -1,4 +1,4 @@
-//business interface logic
+//business logic
 
 $(document).ready(function () {
   $("#design").hide();
@@ -34,6 +34,8 @@ $(document).ready(function () {
 });
 
 //user interface logic
+
+
 $(document).ready(function () {
   $("form#contact_us").submit(function (event) {
     //event.preventDefault();
