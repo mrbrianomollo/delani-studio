@@ -20,8 +20,8 @@
 
 ## Deployment
 
-- You can vist the site directly by clicking [HERE]()
-- You can view the source code on github [HERE]()
+- You can vist the site directly by clicking [HERE](https://mrbrianomollo.github.io/delani-studio/)
+- You can view the source code on github [HERE](https://github.com/mrbrianomollo/delani-studio)
 
 ## BDD
 
