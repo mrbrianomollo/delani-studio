@@ -1,3 +1,5 @@
+//business interface logic
+
 $(document).ready(function(){
     $("#design").hide();
     $("#development").hide();
@@ -31,7 +33,9 @@ $(document).ready(function(){
       });
 });
 
-//button
+
+
+//user interface logic
 $(document).ready(function(){
     $("form#contact_us").submit(function(event){
        //event.preventDefault();
