@@ -30,6 +30,8 @@ $(document).ready(function(){
         $("#product-management-image").show();
       });
 });
+
+//button
 $(document).ready(function(){
     $("form#contact_us").submit(function(event){
        //event.preventDefault();
@@ -40,7 +42,7 @@ $(document).ready(function(){
         alert (name + ", we have received your message. Thank you for reaching out to us.");
       }
       else {
-        alert("Please enter your name and email!");
+        alert("Please ensure you have filled both name and email address!");
       }
       
     });
